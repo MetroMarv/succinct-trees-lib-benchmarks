@@ -1,0 +1,8 @@
+[package]
+name = "succinct-trees-benchmark"
+version = "0.1.0"
+authors = ["Marvin Rensing <marvin.rensing@posteo.de>"]
+
+[dependencies]
+succinct-trees-lib = { path = "../succinct-trees-lib" }
+bv = {version = "0.7", features = ["serde"]}
