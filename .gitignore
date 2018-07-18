@@ -3,3 +3,4 @@
 Cargo.lock
 .idea/
 succinct-trees-benchmark.iml
+resources/parenthesis_depth_25_max_children_3.txt
